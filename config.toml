@@ -1,0 +1,29 @@
+baseURL = 'https://pornhub.netlify.app'
+languageCode = 'en-us'
+title = 'PornHub'
+theme = 'adult'
+enableRobotsTXT = 'true'
+paginate = 18
+
+[params]
+  Description = 'PornHub free Adult movies, Adult videos. Watch Jav porn, Japan Uncencored, Adult movies, Adult videos, Premium Adult film 18+. pornhub.netlify.app, pornhub.com'
+  favicon = 'https://img.icons8.com/ios/512/209cee/breast.png'
+  twitter = 'Rizqy'
+[markup.goldmark.renderer]
+ unsafe = true
+[taxonomies]
+  genre = 'genre'
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "genre"
+    weight = 100
+  [[related.indices]]
+    name = "title"
+    weight = 90
+  [[related.indices]]
+    name = "type"
+    weight = 80

@@ -1,0 +1,26 @@
+<div class="p-r">
+  <script src="/js/script.js"></script>
+  <script>if(ero != null){document.write(estream);}else if(ero2 != null){document.write(e2stream);}else if(ero3 != null){document.write(e3stream);}else{null};</script>
+  <img loading="lazy" class="of-c d-b img" id="plyr" src="https://xxx.eroboom.pw/{{ .Params.image }}" alt="{{ .Title }}"/>
+</div>
+
+<div class="bc-1 p-5 o-h d-g gg-5">
+  <div class="d-g gg-5 gtc-mi ai-c">
+    <div class="to-e o-h d-g gg-5">
+      <h2 class="fs-15 o-h c-3 to-e d-2le">
+        {{ range $key, $value := $.Params.genre }}<a href="/genre/{{ $value | urlize }}">{{ $value }}</a>{{ if ne $key (sub (len $.Params.genre) 1) }}, {{ else }}.{{ end }}{{ end }}
+      </h2>
+      <h2 class="fs-15 c-1">Watch {{ .Title }} ({{ .Params.title2 }}) - ({{ .Params.year }})</h2>
+    </div>
+    <a href="/"><img loading="lazy" class="br-100 thumbi of-c d-b" src="{{ .Site.Params.favicon }}" alt="{{ .Title }}"></a>
+  </div>
+</div>
+
+<div class="o-a max-h">{{- .Content -}}</div>
+
+<div class="bc-1 p-5 d-g gg-5">
+  <p class="fs-15">
+    Tags: {{ delimit .Params.keywords ", " }}
+  </p>
+  
+</div>
