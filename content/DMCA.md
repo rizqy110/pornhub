@@ -23,8 +23,8 @@ Anonymous or incomplete messages will not be deal with it. Thank you for your un
 
 DISCLAIMER:
 
-None of the files listed in this website are hosted on the server of https://pornhub.netlify.app point to content hosted on third party websites. https://pornhub.netlify.app not accept responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of movies. we just post links available in internet. If you think any of the contents of this site infringes any intellectual property law and you hold the copyright of that content please report it to rizqymedsos@gmail.com the content will be immediately removed.
+None of the files listed in this website are hosted on the server of https://adultmovies.netlify.app point to content hosted on third party websites. https://adultmovies.netlify.app not accept responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of movies. we just post links available in internet. If you think any of the contents of this site infringes any intellectual property law and you hold the copyright of that content please report it to rizqymedsos@gmail.com the content will be immediately removed.
 
 Thank you.
 
-By. https://pornhub.netlify.app the best Chinese Anime Web Pages
+By. https://adultmovies.netlify.app the best Chinese Anime Web Pages

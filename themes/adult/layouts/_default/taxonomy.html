@@ -6,7 +6,7 @@
     {{ range (.Paginate .Pages).Pages }}
     <article><a href="{{ .Permalink }}">
       <div class="o-h mb-7">
-        <img loading="lazy" class="thumb of-c d-b bc-1" src="https://xxx.eroboom.pw/{{ .Params.image }}" alt="{{ .Title }}">
+        <img loading="lazy" class="thumb of-c d-b bc-1" src="{{ .Site.Params.eroboom }}{{ .Params.image }}" alt="{{ .Title }}">
       </div>
       <div class="d-g gg-5">
         <h2 class="o-h fs-13 c-1 to-e d-2le">

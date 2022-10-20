@@ -4,7 +4,7 @@
 {{ range first 6 (where .Site.RegularPages "Section" "Movie") }}
 <article><a href="{{ .Permalink }}">
   <div class="o-h mb-7">
-    <img class="thumb of-c d-b bc-1" src="https://xxx.eroboom.pw/{{ .Params.image }}" alt="{{ .Title }}">
+    <img class="thumb of-c d-b bc-1" src="{{ .Site.Params.eroboom }}{{ .Params.image }}" alt="{{ .Title }}">
   </div>
   <div class="d-g gg-5">
     <h2 class="o-h fs-13 to-e d-2le c-1">
@@ -27,7 +27,7 @@
 {{ range first 12 (where .Site.RegularPages "Section" "Video") }}
 <article><a href="{{ .Permalink }}">
   <div class="o-h mb-7">
-    <img class="thumb of-c d-b bc-1" src="https://xxx.eroboom.pw/{{ .Params.image }}" alt="{{ .Title }}">
+    <img class="thumb of-c d-b bc-1" src="{{ .Site.Params.eroboom }}{{ .Params.image }}" alt="{{ .Title }}">
   </div>
   <div class="d-g gg-5">
     <h2 class="o-h fs-13 to-e d-2le c-1">

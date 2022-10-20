@@ -15,6 +15,6 @@ genre:
 - 
 ---
 
-<div class="d-g gg-5 gtc-r ai-c">
+<div class="d-g gg-5 ai-c">
 <button onclick="window.open('?ero=','_blank')">Play Adult Movie</button>
 </div>
