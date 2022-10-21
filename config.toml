@@ -1,4 +1,4 @@
-baseURL = 'https://adultmovies.netlify.app'
+baseURL = 'https://adultmovies.pages.dev'
 languageCode = 'en-us'
 title = 'PornHub'
 theme = 'adult'
