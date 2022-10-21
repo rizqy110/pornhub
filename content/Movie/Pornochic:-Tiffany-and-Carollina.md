@@ -10,7 +10,7 @@ keywords:
 - "Premium Adult Movies Pornochic: Tiffany and Carollina"
 - "Free Adult Movies Pornochic: Tiffany and Carollina"
 year: '2022'
-type: 'Video Movie'
+type: 'Movie'
 genre:
 - French
 - Porno HD

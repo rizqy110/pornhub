@@ -24,7 +24,7 @@
   </div>
 </a></article>
 {{ end }}
-{{ range first 12 (where .Site.RegularPages "Section" "Video") }}
+{{ range first 6 (where .Site.RegularPages "Section" "Video") }}
 <article><a href="{{ .Permalink }}">
   <div class="o-h mb-7">
     <img class="thumb of-c d-b bc-1" src="{{ .Site.Params.eroboom }}{{ .Params.image }}" alt="{{ .Title }}">
