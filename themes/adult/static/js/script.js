@@ -18,6 +18,6 @@ var ero = getUrlParam('ero',null);
 var ero2 = getUrlParam('ero2',null);
 var ero3 = getUrlParam('ero3',null);
 
-var estream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://video1.tizam.cc/"+ ero +".mp4' type='video/mp4'></Video>";
-var e2stream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://video2.tizam.cc/"+ ero2 +".mp4' type='video/mp4'></Video>";
-var e3stream = "<video class='p-a' id='plyr' autoplay='' controls='' controlslist='nodownload' playsinline='' webkit-playsinline='' src='https://video3.tizam.cc/"+ ero3 +".mp4' type='video/mp4'></Video>";
+var estream = "<meta http-equiv='refresh' content='0; url=https://4healthblogs.blogspot.com/?mero1="+ ero +"'>";
+var e2stream = "<meta http-equiv='refresh' content='0; url=https://4healthblogs.blogspot.com/?mero2="+ ero2 +"'>";
+var e3stream = "<meta http-equiv='refresh' content='0; url=https://4healthblogs.blogspot.com/?mero3="+ ero3 +"'>";
