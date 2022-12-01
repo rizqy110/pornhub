@@ -2,6 +2,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="msvalidate.01" content="0991881F0592CACF3F1D286FBEBD601E"/>
   <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">
   <title>{{- if .IsHome -}}{{ .Site.Title }} (Adult Movies){{- else if .IsSection -}}{{ .Page.Title }}{{- else if .IsNode -}}{{ .Page.Title }} Film Semi | {{ .Site.Title }}{{- else if .IsPage -}}{{ if isset .Params "type" }}{{ .Page.Title }} ({{ .Params.title2 }}){{ else }}{{ .Page.Title }} | {{ .Site.Title }}{{ end }}{{- else -}}{{ .Site.Title }} (Adult Movies){{- end -}}</title>
   {{ if .IsPage }}<meta name="keywords" content="{{ if .Params.Keywords }}{{ delimit .Params.Keywords ", " }}{{ else }}{{ end }}">{{ else }}{{ end }}
